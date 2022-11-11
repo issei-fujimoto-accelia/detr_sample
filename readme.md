@@ -18,11 +18,11 @@ Python 3.9.5
 `python sample.py`
 
 
-サイズ推定のサンプル
+サイズ推定のサンプル  
 `python main.py`
 
 
-loadするimageはこのあたり書き換えてください
+loadするimageはこのあたり書き換えてください  
 `image = Image.open("./images/ninjin.jpeg")`
 
 
